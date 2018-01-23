@@ -12,45 +12,45 @@ import Player from '@/components/music/MusicPlayer'
 import PhotoDetail from '@/components/photo/PhotoDetail'
 // import CommonFooter from '@/components/common/CommonFooter'
 
+
 Vue.use(Router)
 
 export default new Router({
-  routes: [
-    {
-      path: '/',
-      // component: 
-      redirect: '/movie/top250'
-    },
-    {
-      path     : '/movie',
-      component: Movie,
-      redirect : '/movie/top250',
-      children : [
-        {path:'/movie/top250',component:MovieTop250},
-        {path:'/movie/hot',component:MovieTop250},
-        {path:'/movie/coming',component:MovieTop250}
-      ]
-    },
-    {
-      path     : '/music',
-      component: Music,
-      redirect : '/music/music_albums',
-      children : [
-        {path:'/music/music_albums',component:Albums},
-        {path:'/music/music_player/:id',component:Player}
-      ]
-    },
-    {
-      path     : '/book',
-      component: Book
-    },
-    {
-      path     : '/photo',
-      component: Photo
-    },
-    {
-      path     : '/photo/detail/:index',
-      component: PhotoDetail
-    }
-  ]
+    routes: [{
+            path: '/',
+            // component: 
+            redirect: '/movie/top250'
+        },
+        {
+            path: '/movie',
+            component: Movie,
+            redirect: '/movie/top250',
+            children: [
+                { path: '/movie/top250', component: MovieTop250 },
+                { path: '/movie/hot', component: MovieTop250 },
+                { path: '/movie/coming', component: MovieTop250 }
+            ]
+        },
+        {
+            path: '/music',
+            component: Music,
+            redirect: '/music/music_albums',
+            children: [
+                { path: '/music/music_albums', component: Albums },
+                { path: '/music/music_player/:id', component: Player }
+            ]
+        },
+        {
+            path: '/book',
+            component: Book
+        },
+        {
+            path: '/photo',
+            component: Photo
+        },
+        {
+            path: '/photo/detail/:index',
+            component: PhotoDetail
+        }
+    ]
 })
