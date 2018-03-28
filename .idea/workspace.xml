@@ -2,189 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05ece9cf-291d-4778-9322-2f2d2a8aa464" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/chinese_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/chinese_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/ktv_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/ktv_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/assets/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/my_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/my_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/new_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/new_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/original_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/original_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/img/soar_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/img/soar_music.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/book/Book.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/book/Book.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/common/CommonFooter.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/common/CommonHeader.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/ComponentA.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/ComponentB.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/ComponentC.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/common/Footer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/common/Header.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/unit/specs/Hello.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/unit/specs/HelloWorld.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/HelloWorld.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/movie/Movie.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/movie/Movie.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/movie/MovieList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/movie/MovieNav.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/movie/MovieNav.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/movie/MovieTop250.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/movie/MovieTop250.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/music/Music.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/music/MusicAlbums.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/music/MusicList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/music/MusicPlayer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/photo/Photo.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/photo/Photo.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/components/photo/PhotoDetail.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/photo/PhotoDetail.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/Test.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/dev-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/dev-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/unit/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/unit/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/music-data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/music-data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/music/music.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/components/music/musicList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/musiclist.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/musiclist.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/photo-data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/photo-data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/assets/js/rem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/assets/js/rem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/assets/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/assets/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/unit/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/vuex/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/vuex/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-cli环境安装" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/src/assets/css/vue-swipe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/src/assets/css/vue-swipe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/build/webpack.test.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/build/webpack.test.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/七月.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/七月.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/假如爱有天意.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/假如爱有天意.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/刚好遇见你-李玉刚.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/刚好遇见你-李玉刚.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/咱们屯里人.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/咱们屯里人.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/多幸运.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/多幸运.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/成都-赵雷.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/成都-赵雷.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/demo/static/我要你.lrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue-cli/vue-project/static/我要你.lrc" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\build.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\dev-client.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\dev-server.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\build\webpack.test.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\config\dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\config\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\config\prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\config\test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\App.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\assets\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\assets\css\vue-swipe.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\assets\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\assets\js\rem.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\assets\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\book\Book.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\common\Footer.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\common\Header.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\movie\Movie.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\movie\MovieNav.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\movie\MovieTop250.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\music\Music.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\music\MusicAlbums.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\music\MusicList.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\photo\Photo.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\components\photo\PhotoDetail.vue" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\router\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\src\vuex\store.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\chinese_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\ktv_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\my_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\new_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\original_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\img\soar_music.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\music-data.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\musiclist.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\photo-data.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\七月.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\假如爱有天意.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\刚好遇见你-李玉刚.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\咱们屯里人.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\多幸运.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\成都-赵雷.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\static\我要你.lrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\e2e\custom-assertions\elementCount.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\e2e\nightwatch.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\e2e\runner.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\e2e\specs\test.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\unit\.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\unit\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\unit\karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\demo\test\unit\specs\Hello.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\HanJingYi\WebstormProjects\vue-cli2\vue-cli\vue-project\src\components\ComponentC.vue" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vue-cli2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -204,18 +110,7 @@
     <favorites_list name="vue-cli2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="store.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vue-cli/demo/src/vuex/store.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -256,6 +151,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -293,87 +189,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vuex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-cli" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="vue-project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -429,6 +250,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="05ece9cf-291d-4778-9322-2f2d2a8aa464" name="Default" comment="" />
@@ -439,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1046" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -469,7 +293,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue-cli/demo/src/vuex/store.js">
+    <entry file="file://$PROJECT_DIR$/vue-cli/vue-project/src/components/common/CommonHeader.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -477,10 +301,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-cli/demo/src/vuex/store.js">
+    <entry file="file://$PROJECT_DIR$/vue-cli/vue-project/src/components/HelloWorld.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
